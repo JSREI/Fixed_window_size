@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Fixed_window_size
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/0xsdeo/Hook_JS
 // @version      2025-01-11
 // @description  js获取浏览器高度或宽度时获取到的是脚本中设置的固定值，如果网站js尝试去设置高度和宽度值会直接去设置固定值，并不会按照网站js设置的值去设置。
 // @author       0xsdeo
